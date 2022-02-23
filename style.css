@@ -1,0 +1,52 @@
+.heading {
+    width: 100%;
+}
+
+h1 {
+    display: inline;
+    height: 80% !important;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#image {
+    width: 100px;
+    height: 60px;
+    border-radius: 20%;
+    float: left;
+}
+
+.instructions {
+    float: right;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+
+.start {
+    font-size: 20px;
+}
+
+.copy-right_footer {
+    line-height: 2;
+    background-color: aliceblue;
+    margin-bottom: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.modal-dialog {
+    width: 80%;
+}
+
+.image {
+    width: 45%;
+    display: inline;
+}
+
+video {
+    background: url("game_console.png");
+    background-position: center;
+    background-size: cover;
+    padding: 22px;
+}
